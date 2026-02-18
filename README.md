@@ -8,12 +8,13 @@ A real-time AI voice consultant for luxury real estate. The system listens to us
 1. **User Call** -> Twilio Media Stream
 2. **Twilio** -> WebSocket (ngrok) -> FastAPI Server
 3. **FastAPI** -> Faster-Whisper (Transcription)
-4. **Text** -> Gemini 1.5 Flash (Brain)
+4. **Text** -> Gemini 3 Flash (Brain)
 5. **Response** -> System Audio ('Say' command)
 
 ## 📺 Demo Recording
 
 See OmniVoice in action! This recording demonstrates the real-time transcription 
+
 https://drive.google.com/file/d/13vykAGrRcTLYXXNsMhphsmCD8cdsMKvy/view?usp=sharing
 
 ## 🛠️ Tech Stack
