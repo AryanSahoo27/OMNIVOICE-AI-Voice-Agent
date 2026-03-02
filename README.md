@@ -15,7 +15,7 @@ A real-time AI voice consultant for luxury real estate. The system listens to us
 
 See OmniVoice in action! This recording demonstrates the real-time transcription 
 
-https://drive.google.com/file/d/13vykAGrRcTLYXXNsMhphsmCD8cdsMKvy/view?usp=sharing
+https://drive.google.com/drive/folders/1ylEpOjextxeF4eXBwzWYlin-dZpgVEns?usp=share_link
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.10+
