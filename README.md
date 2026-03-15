@@ -33,6 +33,8 @@ https://drive.google.com/drive/folders/1ylEpOjextxeF4eXBwzWYlin-dZpgVEns?usp=sha
    Create a .env file in the root directory:
    ```bash
    GEMINI_API_KEY=your_key_here
+   SARVAM_API_KEY=your_sarvam_api_key_here
+   GROQ_API_KEY=your_groq_api_key_here
 
 4. **Run the Server:**
    ```bash
@@ -43,3 +45,19 @@ https://drive.google.com/drive/folders/1ylEpOjextxeF4eXBwzWYlin-dZpgVEns?usp=sha
    ```bash
    ngrok http 8000
 
+6. **Install ffmpeg:**
+   ```bash
+   brew install ffmpeg
+
+## 📝 Module B: Offline Minutes of Meeting (MoM) Generator
+
+You can process pre-recorded audio files offline to generate a structured Minutes of Meeting summary using Sarvam AI (for transcription) and Groq (for fast summarization).
+
+**Setup:**
+1. Ensure `ffmpeg` is installed on your system.
+2. Add your `SARVAM_API_KEY` and `GROQ_API_KEY` to your `.env` file.
+
+**Usage:**
+Run the module directly from the terminal, passing the path to your audio file:
+```bash
+python -m src.module_b_mom "path/to/your/recording.wav"
