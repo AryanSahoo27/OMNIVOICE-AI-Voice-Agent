@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1ylEpOjextxeF4eXBwzWYlin-dZpgVEns?usp=sha
    ```bash
    ngrok http 8000
 
-6. **Install ffmpeg**
+6. **Install ffmpeg:**
    ```bash
    brew install ffmpeg
 
