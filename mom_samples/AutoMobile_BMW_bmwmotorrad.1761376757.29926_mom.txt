@@ -1,0 +1,8 @@
+Main Topic/Objective
+The main topic of the conversation is to schedule a car service appointment for a BMW car at a service center.
+
+Key Points Discussed
+The car owner wants to bring his car for service and is inquiring about the availability of a time slot. The service center has availability on Monday and the car owner is planning to bring the car on the same day. The car owner is asked to provide the car's number and he provides it as WB 0022. The car owner plans to arrive at the service center around 4 pm and the service center is open until 6:30 pm.
+
+Decisions Made or Action Items
+The car owner will bring his car for service on the same day around 4 pm and the service center will accommodate the car. The service center will keep a slot open for the car and the car owner is expected to arrive within the service center's working hours.
