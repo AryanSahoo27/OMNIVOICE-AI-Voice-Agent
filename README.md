@@ -33,6 +33,8 @@ https://drive.google.com/drive/folders/1ylEpOjextxeF4eXBwzWYlin-dZpgVEns?usp=sha
    Create a .env file in the root directory:
    ```bash
    GEMINI_API_KEY=your_key_here
+   SARVAM_API_KEY=your_sarvam_api_key_here
+   GROQ_API_KEY=your_groq_api_key_here
 
 4. **Run the Server:**
    ```bash
