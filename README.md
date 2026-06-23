@@ -4,6 +4,14 @@
 ## 🚀 Project Overview
 A real-time AI voice consultant for luxury real estate. The system listens to user speech, processes intent using Google Gemini 3 Flash, and responds with low-latency audio using MacOS native TTS.
 
+## ✨ Features
+- Real-time voice interaction
+- AI-powered conversation using Gemini 3 Flash
+- Speech-to-text with Faster-Whisper
+- Low-latency audio responses
+- Offline Minutes of Meeting (MoM) generation
+- Twilio phone integration
+  
 ## 🏗️ Architecture
 1. **User Call** -> Twilio Media Stream
 2. **Twilio** -> WebSocket (ngrok) -> FastAPI Server
@@ -24,6 +32,14 @@ https://drive.google.com/drive/folders/1ylEpOjextxeF4eXBwzWYlin-dZpgVEns?usp=sha
 - **Transcription:** Faster-Whisper
 - **Tunneling:** Ngrok
 
+## 📋 Prerequisites
+- Python 3.10+
+- ffmpeg
+- ngrok
+- Google Gemini API key
+- Sarvam AI API key
+- Groq API key
+  
 ## ⚙️ Setup Instructions
 1. **Install Dependencies:**
    ```bash
